@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|c:\\users\\hanns\\documents\\github\\026_sistemacarritocompras\\proyectotest\\views\\login\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\login\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|c:\\users\\hanns\\documents\\github\\026_sistemacarritocompras\\proyectotest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|c:\\users\\hanns\\documents\\github\\026_sistemacarritocompras\\proyectotest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\proyectotest\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\proyectotest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\proyectotest\\logica\\marcalogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\logica\\marcalogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\proyectotest\\logica\\usuariologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\logica\\usuariologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\proyectotest\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\proyectotest\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\proyectotest\\logica\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\logica\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\proyectotest\\logica\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\logica\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4FBB63-74DC-4B6E-8DE5-F6E52240E010}|Utilidad\\Utilidad.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\utilidad\\sql server\\001_creacion base y tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{2C4FBB63-74DC-4B6E-8DE5-F6E52240E010}|Utilidad\\Utilidad.csproj|solutionrelative:utilidad\\sql server\\001_creacion base y tablas.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4FBB63-74DC-4B6E-8DE5-F6E52240E010}|Utilidad\\Utilidad.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\utilidad\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4FBB63-74DC-4B6E-8DE5-F6E52240E010}|Utilidad\\Utilidad.csproj|solutionrelative:utilidad\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\proyectotest\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\proyectotest\\views\\home\\categoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\home\\categoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\proyectotest\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\proyectotest\\logica\\compralogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\logica\\compralogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\proyectotest\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\proyectotest\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T03:51:07.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T03:50:48.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Web.config",
+              "RelativeDocumentMoniker": "ProyectoTest\\Web.config",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Web.config",
+              "RelativeToolTip": "ProyectoTest\\Web.config",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-02T04:15:33.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Models\\Usuario.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T00:46:48.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Logica\\utilidades.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\utilidades.cs",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Logica\\utilidades.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\utilidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T00:43:58.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TiendaController.cs",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Controllers\\TiendaController.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Controllers\\TiendaController.cs",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Controllers\\TiendaController.cs",
+              "RelativeToolTip": "ProyectoTest\\Controllers\\TiendaController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwFcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:24:27.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Logica\\UsuarioLogica.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\UsuarioLogica.cs",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Logica\\UsuarioLogica.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\UsuarioLogica.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAApwCMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T00:25:47.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\Utilidad\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Utilidad\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\Utilidad\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Utilidad\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T00:01:57.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ProyectoTest\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T00:01:39.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoTest\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAApwFIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:37:20.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarcaLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Logica\\MarcaLogica.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\MarcaLogica.cs",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Logica\\MarcaLogica.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\MarcaLogica.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAApwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:33:15.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ProyectoTest\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwFwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T00:59:22.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Logica\\Conexion.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Logica\\Conexion.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:32:41.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "001_CREACION BASE Y TABLAS.sql ",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\Utilidad\\SQL Server\\001_CREACION BASE Y TABLAS.sql",
+              "RelativeDocumentMoniker": "Utilidad\\SQL Server\\001_CREACION BASE Y TABLAS.sql",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\Utilidad\\SQL Server\\001_CREACION BASE Y TABLAS.sql",
+              "RelativeToolTip": "Utilidad\\SQL Server\\001_CREACION BASE Y TABLAS.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-28T00:28:11.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Categoria.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Views\\Home\\Categoria.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Categoria.cshtml",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Views\\Home\\Categoria.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Categoria.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T23:36:48.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "ProyectoTest\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:34:05.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CompraLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Logica\\CompraLogica.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\CompraLogica.cs",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Logica\\CompraLogica.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\CompraLogica.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:32:55.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Models\\Categoria.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:30:19.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Models\\Carrito.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Carrito.cs",
+              "ToolTip": "C:\\Users\\Hanns\\Documents\\GitHub\\026_SistemaCarritoCompras\\ProyectoTest\\Models\\Carrito.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Carrito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:30:12.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
